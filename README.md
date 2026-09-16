@@ -1,14 +1,43 @@
-# 📚 Library Management System (Python)
+# 📚 Library Management System - Details
 
-A simple **Python console-based Library Management System** that helps manage books easily.  
-This project allows users to **add, view, update, delete, restore, and save book data**, stored locally in JSON and CSV files.
+Detailed project materials and implementation resources related
+to a Library Management System.
 
-## 🚀 Features
+## 📌 About
 
-✅ Add new books to the system  
-✅ View all available books  
-✅ Update existing book information  
-✅ Delete books from the library  
-✅ Restore deleted books  
-✅ Save and load data from CSV and JSON files  
-✅ Simple and modular code structure for learning and maintenance  
+This repository contains additional details, documentation,
+or project resources related to the Library Management System.
+
+## 🎯 Purpose
+
+The project focuses on understanding:
+
+- Library management
+- Database systems
+- Software development
+- System design
+- Data management
+
+## 🗄️ Database Concepts
+
+The project may involve concepts such as:
+
+- Tables
+- Primary Keys
+- Foreign Keys
+- Relationships
+- CRUD Operations
+- SQL Queries
+- Database Design
+
+## 📚 Academic Use
+
+This repository can be used as a reference for understanding
+the structure and development process of a database-oriented
+software project.
+
+## 👨‍💻 Author
+
+**Md. Masud**
+
+GitHub: https://github.com/masudSQT
